@@ -138,7 +138,7 @@ main{
 }
 @media screen and (max-width:576px){
     #calc{
-        height: 70%;
+        height: 20rem;
     }
     #button-fact-l{
         display: none;
