@@ -2,6 +2,7 @@
 body{
     height: 100%;
     width: 100%;
+    background-color: blueviolet;
 }
 main{
     width: 100%;
@@ -136,8 +137,11 @@ main{
     }
     
 }
-@media screen and (max-width:576px){
-  main{
+@media screen and (max-width:575.98px){
+ body{
+    height: 100%;
+ }
+    main{
     height: 100%;
   }
     #button-fact-l{
